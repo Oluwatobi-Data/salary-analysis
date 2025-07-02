@@ -1,33 +1,33 @@
-# 💼 Employee Salary Analysis (2011–2014) | Power BI Dashboard
+# Employee Salary Analysis (2011–2014) | Power BI Dashboard
 
 This project explores salary data from 2011 to 2014 to uncover compensation trends, top-earning roles, and overtime-heavy positions. Built using **Power BI**, the dashboard delivers key metrics and visualizations to guide workforce cost optimization and strategic HR decisions.
 
 ---
 
-## 🔍 Executive Summary
+## Executive Summary
 
-**🎯 Objective:**  
+**Objective:**  
 Analyze employee salary data to identify trends in pay distribution, top-earning roles, and overall compensation structure.
 
-**📌 Key Insights:**
-- 👥 Total employees analyzed: **149,000**
-- 💰 Total salary paid: **$11.11 billion**
-- 📊 Average total pay (including benefits): **$93,690**
-- ⏱️ **OvertimePay** accounts for **6.78%** of total pay
-- 📦 **OtherPay** contributes **4.88%** of total pay
-- 🥇 Top roles in **BasePay**, **OvertimePay**, and **TotalPay** include:
+**Key Insights:**
+- Total employees analyzed: **149,000**
+- Total salary paid: **$11.11 billion**
+- Average total pay (including benefits): **$93,690**
+- **OvertimePay** accounts for **6.78%** of total pay
+- **OtherPay** contributes **4.88%** of total pay
+- Top roles in **BasePay**, **OvertimePay**, and **TotalPay** include:
   - **Transit Operator**
   - **Registered Nurse**
   - **Firefighter**
 
-**🛠 Recommendations:**
+**Recommendations:**
 - Investigate high-overtime roles (e.g., Transit Operators) to optimize labor costs
 - Design compensation models that balance reward with workload
 - Explore automation or staffing adjustments in overtime-heavy roles
 
 ---
 
-## 🧭 Business Context
+## Business Context
 
 **Background:**  
 The organization aims to evaluate compensation trends from 2011 to 2014, spotlight high-cost roles, and improve pay equity and operational efficiency.
@@ -42,22 +42,22 @@ HR Department, Finance Team, Senior Management
 
 ---
 
-## 🗂️ Data Overview
+## Data Overview
 
-- **📁 Sources:** Internal HR and payroll records
-- **📅 Date Range:** 2011 – 2014
-- **🧾 Fields Used:**  
+- **Sources:** Internal HR and payroll records
+- **Date Range:** 2011 – 2014
+- **Fields Used:**  
   `EmployeeName`, `JobTitle`, `BasePay`, `OvertimePay`, `OtherPay`, `TotalPay`, `TotalPayBenefits`
-- **💡 Data Notes:** Salary values are in USD; names and job titles assumed accurate.
+- **Data Notes:** Salary values are in USD; names and job titles assumed accurate.
 
 ---
 
-## 📊 Dashboard Overview 
+## Dashboard Overview 
 ![Dashboard Overview](salary-dashboard.png)
 
 **Tool Used:** Microsoft Power BI
 
-### 🖼️ Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 - **Total Employees:** 149,000
 - **Total Pay:** $11.11 billion
 - **Avg. Pay + Benefits:** $93.69K
@@ -66,23 +66,23 @@ HR Department, Finance Team, Senior Management
 
 ---
 
-### 🧑‍💼 Top Job Titles by Earnings
+### Top Job Titles by Earnings
 
-#### 🏆 BasePay
+#### BasePay
 1. Registered Nurse  
 2. Transit Operator  
 3. Firefighter  
 4. Police Officer 3  
 5. Deputy Sheriff
 
-#### ⏰ OvertimePay
+#### OvertimePay
 1. Transit Operator  
 2. Firefighter  
 3. Police Officer 3  
 4. Deputy Sheriff  
 5. Registered Nurse
 
-#### 💵 TotalPay
+#### TotalPay
 1. Transit Operator  
 2. Registered Nurse  
 3. Firefighter  
@@ -91,9 +91,9 @@ HR Department, Finance Team, Senior Management
 
 ---
 
-### 💸 Top Earners
+### Top Earners
 
-#### 🔟 Top 10 Highest-Earning Employees:
+#### Top 10 Highest-Earning Employees:
 1. Kevin Lee  
 2. Steven Lee  
 3. William Wong  
@@ -105,7 +105,7 @@ HR Department, Finance Team, Senior Management
 9. John Murphy  
 10. William Lee
 
-#### ⏱️ Top 10 OvertimePay Earners:
+#### Top 10 OvertimePay Earners:
 1. Whitney P Yee  
 2. Edward Evans  
 3. Dennis Bloom  
@@ -119,7 +119,7 @@ HR Department, Finance Team, Senior Management
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 - Review overtime-heavy roles for potential staffing optimization and employee wellness
 - Incentivize productivity fairly in high-performing roles like Registered Nurse
@@ -127,7 +127,7 @@ HR Department, Finance Team, Senior Management
 
 ---
 
-## 🧠 Skills & Tools Demonstrated
+## Skills & Tools Demonstrated
 
 - Power BI: Data modeling, DAX, interactive dashboards
 - Workforce Compensation Analysis
@@ -136,13 +136,13 @@ HR Department, Finance Team, Senior Management
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `Executive_Summary_Report.pdf` – Insights and visual highlights
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 **Oluwatobi Titilayo**  
 Data Analyst | Power BI • Excel • SQL • Python  
