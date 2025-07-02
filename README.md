@@ -138,7 +138,6 @@ HR Department, Finance Team, Senior Management
 
 ## 📁 Files Included
 
-- `Salary_Analysis_2011_2014.pbix` – Power BI dashboard file
 - `Executive_Summary_Report.pdf` – Insights and visual highlights
 
 ---
