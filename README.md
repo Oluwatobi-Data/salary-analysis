@@ -52,7 +52,8 @@ HR Department, Finance Team, Senior Management
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Dashboard Overview 
+![Dashboard Overview](salary-dashboard.png.png)
 
 **Tool Used:** Microsoft Power BI
 
